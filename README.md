@@ -11,6 +11,6 @@ Sentiment analysis using PhoBERT and fallback linguistic models.
 
 Detecting and analyzing negative reviews, including keyword extraction, POS tagging, and word cloud visualization.
 
-(Optional) Spark/HDFS integration for scalable storage and processing.
+Spark/HDFS integration for scalable storage and processing.
 
 This project provides a complete end-to-end workflow for understanding user sentiment and generating actionable insights for retail service improvement.
