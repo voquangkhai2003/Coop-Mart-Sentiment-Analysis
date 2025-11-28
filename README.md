@@ -1,4 +1,4 @@
-# Coop-Mart-Sentiment-Analysis
+# Coop Mart Sentiment Analysis
 This project focuses on collecting, preprocessing, analyzing, and classifying customer reviews from Coopmart’s Google Maps pages. The pipeline integrates web scraping, text preprocessing, sentiment analysis, and exploratory data analysis to uncover insights into customer experience and identify negative feedback patterns.
 
 The workflow includes:
